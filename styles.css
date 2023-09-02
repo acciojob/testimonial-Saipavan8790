@@ -1,14 +1,37 @@
 /*  your css code here. If applicable */
-.testimonial {
-	padding-top: 20px;
-	padding-left: 30px;
-	background-color: #f5f5f5;
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
+
+.testimonial {/*  your css code here. If applicable */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
 .main-container {
-	width: 1000px;
-	height: 600px;
-	background-color:  #f5f5f5;
-	border-radius: 9px;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.testimonial {
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.testimonial-text {
+  margin: 0;
+}
+
+.author {
+  text-align: right;
+  font-style: italic;
+  margin: 10px 0 0 0;
 }
 .para-1 {
 	width: 700px;
